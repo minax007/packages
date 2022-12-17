@@ -1,6 +1,6 @@
-# OpenWrt_Packages
+# OpenWrt package repository
 
-Forked from:
+IPK-Files were forked from:
 
 https://github.com/k-szuster/luci-access-control/
 
