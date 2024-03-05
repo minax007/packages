@@ -8,3 +8,5 @@ https://github.com/minax007/packages/raw/main/current/luci-app-temp-status_0.4-2
 https://github.com/minax007/packages/raw/main/current/internet-detector_1.3-0_all.ipk
 
 https://github.com/minax007/packages/raw/main/current/luci-app-internet-detector_1.3-0_all.ipk
+
+https://github.com/minax007/packages/raw/main/current/luci-app-log-viewer_1.1-3_all.ipk
