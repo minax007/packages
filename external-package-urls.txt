@@ -11,3 +11,7 @@ https://github.com/minax007/packages/raw/main/current/luci-app-internet-detector
 
 https://github.com/minax007/packages/raw/main/current/luci-app-log-viewer_1.1-4_all.ipk
 
+https://github.com/minax007/packages/raw/main/current/k3screenctrl_0.10-2_arm_cortex-a9.ipk
+
+https://github.com/minax007/packages/raw/main/current/luci-app-k3screenctrl_1.1.0-2_arm_cortex-a9.ipk
+
