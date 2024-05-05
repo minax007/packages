@@ -10,3 +10,11 @@ https://github.com/minax007/packages/raw/main/current/internet-detector_1.3-0_al
 https://github.com/minax007/packages/raw/main/current/luci-app-internet-detector_1.3-0_all.ipk
 
 https://github.com/minax007/packages/raw/main/current/luci-app-log-viewer_1.1-4_all.ipk
+
+
+
+https://github.com/minax007/packages/raw/main/current/rt2800-pci-firmware_20230804-1_mipsel_24kc.ipk
+
+https://github.com/minax007/packages/raw/main/current/rt2800-usb-firmware_20230804-1_mipsel_24kc.ipk
+
+https://github.com/minax007/packages/raw/main/current/luci-app-dnsleaktest_1.1_all.ipk
